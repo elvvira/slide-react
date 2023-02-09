@@ -1,0 +1,14 @@
+.slider {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 1rem;
+	&__button {
+		border: transparent;
+		padding: 1rem;
+		width: 100px;
+		border-radius: 1rem;
+		margin-right: 1rem;
+	}
+}

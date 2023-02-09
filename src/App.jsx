@@ -1,5 +1,7 @@
+import Slider from './components/slider/Slider';
+
 const App = () => {
-	return <h1>Núcleo de la aplicación</h1>;
+	return <Slider />;
 };
 
 export default App;
